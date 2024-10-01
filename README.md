@@ -22,10 +22,10 @@ A simple **3D raycasting engine** implemented in C++ that renders a first-person
   - Ensure that the compiler supports **C++11** or newer.
 
 ### Console Window Settings
-- **Console Window Size**: The program requires the console window to be set to **120 characters wide** and **40 characters high** for proper rendering.
+- **Console Window Size**: The program requires the console window to be set to **200 characters wide** and **50 characters high** for proper rendering.
   - You can adjust the size of the Command Prompt or PowerShell window manually, or use this command in the terminal:
     ```bash
-    mode con: cols=120 lines=40
+    mode con: cols=200 lines=50
     ```
 
 - **Font**: For the best experience, use a font that supports block characters, such as **Consolas** or **Lucida Console**.
@@ -55,7 +55,7 @@ A simple **3D raycasting engine** implemented in C++ that renders a first-person
     ./3dConsole
     ```
 
-4. **Set the console window size** to 120x40 if it hasn't been set already.
+4. **Set the console window size** to 200x50 if it hasn't been set already.
 
 ## Usage
 
